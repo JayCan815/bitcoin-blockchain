@@ -1,1 +1,2 @@
 # bitcoin-blockchain
+The purpose of this project was to simulate communication between two clients using similar methodology as a blockchain used in bitcoin cryptocurrency. This is done through setting up a client and server relationship in which clients can send or request bitcoins to each other using the server as a middleman to mine the blockchain. Furthermore, the server itself implements a blockchain, using hashing and merkle trees.
